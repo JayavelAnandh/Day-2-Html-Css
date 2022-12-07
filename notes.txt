@@ -1,0 +1,9 @@
+Priorities :
+1 st - inline;
+2 nd - internal;
+3 rd - external;
+
+Using a external css makes your page look good.
+{}-this is a selector of external.
+. - to access a id.
+# - to access a class.

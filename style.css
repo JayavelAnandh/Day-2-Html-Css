@@ -64,3 +64,41 @@ a:hover{
     color:darkmagenta;
     font-size: x-large;
 }
+li{
+    background-image:linear-gradient(to right,violet,indigo,blue,green,yellow,orange,red) ;
+}
+#positions{
+    border: 1px solid black;
+    margin: 15px;
+    height: 500px;
+    padding: 100px;
+    padding-left: 460px;
+}
+.box{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 2px;
+    
+}
+#absolute{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    background-color: blue;
+}
+#relative{
+    position: relative;
+    top:25px;
+    background-color: blueviolet;
+}
+#fixed{
+    position: fixed;
+    top:0%;
+    background-color: brown;
+}
+#sticky{
+    position: sticky;
+    background-color: aqua;
+    top:1px;
+}

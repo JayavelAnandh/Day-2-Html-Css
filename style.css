@@ -50,3 +50,17 @@ span{
     display: inline-block;
     
 }
+a:link{
+    color: darkslategrey;
+}
+a:visited{
+    color:red;
+}
+a:active{
+    color:black;
+    border: 1px solid black;
+}
+a:hover{
+    color:darkmagenta;
+    font-size: x-large;
+}

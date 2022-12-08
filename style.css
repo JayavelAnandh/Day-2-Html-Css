@@ -41,7 +41,6 @@ section{
     border: 2px solid black;
     margin: 10px;
     background-color: white;
-    
 
 }
 span{
@@ -50,17 +49,4 @@ span{
     background-color: aliceblue;
     display: inline-block;
     
-}
-div:hover{
-    color: lightgreen;
-}
-a:hover{
-    color: lightsalmon;
-}
-li:hover{
-    color: aqua;
-}
-span:hover{
-    background-color: black;
-    color: aliceblue;
 }

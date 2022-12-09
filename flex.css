@@ -1,0 +1,17 @@
+.main-flex{
+border: 2px solid green;
+margin: 25px;
+padding: 24px;
+height: 100vh;
+display: flex;
+
+justify-content: space-around;
+align-items: flex-start;
+flex-wrap: wrap;
+flex-direction: row;
+}
+.flex-div{
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+}
